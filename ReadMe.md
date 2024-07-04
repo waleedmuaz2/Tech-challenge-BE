@@ -38,7 +38,6 @@ This project demonstrates how to create two Symfony microservices that communica
 ## Endpoints
 
 - **Users Service:** `POST /users` - Create a user with `email`, `firstName`, and `lastName`.
-
 ## Messaging
 
 - Uses Redis as the message broker.

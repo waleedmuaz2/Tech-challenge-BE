@@ -1,5 +1,4 @@
 <?php
-// tests/MessageHandler/UserCreatedEventHandlerTest.php
 
 namespace App\Tests\MessageHandler;
 
